@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Anas ESSAMLALI</h1>
 <h3 align="center">A Junior Test Enginner</h3>
-<img align="right" alt="Coding" width="400" src="[![image](https://github.com/user-attachments/assets/7bb00077-77bb-4883-8587-fe7a2d573024)](https://cdnl.iconscout.com/lottie/premium/preview-watermark/programmer-animation-download-in-lottie-json-gif-static-svg-file-formats--web-developer-programming-code-online-meeting-freelancer-website-development-animations-3645911.mp4)">
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anas0102&label=Profile%20views&color=0e75b6&style=flat" alt="anas0102" /> </p>
 
