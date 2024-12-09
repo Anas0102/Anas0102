@@ -5,9 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anas0102&label=Profile%20views&color=0e75b6&style=flat" alt="anas0102" /> </p>
 
-- 🌱 I’m currently learning **QA**
 
-- 👯 I’m looking to collaborate on **some Quality assurance Projects**
+- 👯 I’m looking to collaborate on **some Software Projects**
 
 - 📫 How to reach me **anasessamlalo1@gmail.com**
 
